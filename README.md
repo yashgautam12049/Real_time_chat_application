@@ -31,8 +31,8 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 
-# User 1: Mayank Chaudhary
+# User 1: Yash
 ![Screenshot (18)](https://raw.githubusercontent.com/yashgautam12049/Real_time_chat_application/main/user1.png)
 
-# User 2: Harry
+# User 2: Khushi
 ![Screenshot (19)](https://raw.githubusercontent.com/yashgautam12049/Real_time_chat_application/main/user2.png)
